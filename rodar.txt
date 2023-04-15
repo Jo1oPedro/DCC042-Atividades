@@ -1,0 +1,4 @@
+Php 8.0+
+Rodar Composer install
+instalar a biblioteca DS
+habilitar os sockets no php.ini
